@@ -24,7 +24,8 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 风向：{{wind_dir.DATA}} 
 
-今天是我们恋爱的第{{love_day.DATA}}天 
+今天是我们恋爱的第{{love_day.DATA}}天
+早安宝宝!今天也要比昨天爱我一些噢~ 
 
 {{birthday1.DATA}} 
 {{birthday2.DATA}}
